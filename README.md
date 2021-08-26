@@ -1,2 +1,2 @@
 # webdevcoursera
-assignments for coursera:nhtml, css and javascript for web developers
+assignments for coursera: html, css and javascript for web developers
